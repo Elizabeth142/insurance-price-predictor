@@ -1,6 +1,6 @@
 # Insurance Price Predictor
 
-A MERN application that predicts insurance premium costs based on user details such as age, gender, BMI, region, and smoking status.  
+A application that predicts insurance premium costs based on user details such as age, gender, BMI, region, and smoking status.  
 It uses a trained Machine Learning regression model to return an estimated insurance cost instantly.
 
 🔗 **Live Demo:** [https://insurance-price-predictor-6ncz.onrender.com/](https://insurance-price-predictor-6ncz.onrender.com/)
@@ -40,3 +40,4 @@ MongoDB stores user data and request logs, while React provides a responsive fro
 - **Deployment:** Render.com
 
 ---
+
